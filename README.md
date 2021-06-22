@@ -27,6 +27,10 @@
   - [58集团白盒代码审计系统建设实践2：深入理解SAST](https://xz.aliyun.com/t/9429)
 - 腾讯Xcheck
   - [Xcheck之Node.js安全检查引擎](https://mp.weixin.qq.com/s/Kl9omJ91R3rGSe4h8gk0PQ)
+  - [Xcheck之Python安全检查引擎](https://mp.weixin.qq.com/s/_UEofmOavtkYqNpti_FcxA)
+  - [Xcheck之PHP代码安全检查](https://mp.weixin.qq.com/s/K29g9Gu-JQvOoOQ98sreBg)
+  - [Xcheck之Golang安全检查引擎](https://mp.weixin.qq.com/s/VzjcXp3O8zc97aIppy4LUA)
+  - [Xcheck之Java安全检查引擎](https://mp.weixin.qq.com/s/rb1BfcZeCTr2PIiypXqVjw)
   - [SAST大规模应用实践](https://mp.weixin.qq.com/s/7_r7N3X_fn22uGJWcW-8GQ)
 - [360移动端工具fireline](http://magic.360.cn/zh/index.html)
 - [阿里代码规范检查工具](https://github.com/alibaba/p3c)
