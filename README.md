@@ -25,6 +25,7 @@
 - 58集团白盒代码审计系统建设实践
   - [58集团白盒代码审计系统建设实践1：技术选型](https://xz.aliyun.com/t/9335)
   - [58集团白盒代码审计系统建设实践2：深入理解SAST](https://xz.aliyun.com/t/9429)
+  - [Java 供应链(依赖)安全检测实践](https://mp.weixin.qq.com/s/1fnDelBE1HisEaopEyk8nQ)
 - 腾讯Xcheck
   - [Xcheck之Node.js安全检查引擎](https://mp.weixin.qq.com/s/Kl9omJ91R3rGSe4h8gk0PQ)
   - [Xcheck之Python安全检查引擎](https://mp.weixin.qq.com/s/_UEofmOavtkYqNpti_FcxA)
@@ -32,8 +33,13 @@
   - [Xcheck之Golang安全检查引擎](https://mp.weixin.qq.com/s/VzjcXp3O8zc97aIppy4LUA)
   - [Xcheck之Java安全检查引擎](https://mp.weixin.qq.com/s/rb1BfcZeCTr2PIiypXqVjw)
   - [SAST大规模应用实践](https://mp.weixin.qq.com/s/7_r7N3X_fn22uGJWcW-8GQ)
+  - [Xcheck Java引擎漏洞挖掘&防护识别](https://mp.weixin.qq.com/s/FPMUVoSqc0Lsf5BQx07ADw)
 - [360移动端工具fireline](http://magic.360.cn/zh/index.html)
 - [阿里代码规范检查工具](https://github.com/alibaba/p3c)
+
+### CodeQL研究
+- [代码分析引擎 CodeQL 初体验](https://paper.seebug.org/1078)
+- [CodeQL 的学习以及尝试漏洞挖掘](https://bestwing.me/codeql.html)
 
 ## 书籍
 - [编译原理](https://github.com/twosmi1e/Static-Analysis-and-Automated-Code-Audit/blob/main/book/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E9%BE%99%E4%B9%A6%E4%B8%AD%E6%96%87%E7%AC%AC%E4%BA%8C%E7%89%88.pdf)
