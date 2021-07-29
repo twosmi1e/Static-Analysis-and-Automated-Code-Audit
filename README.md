@@ -40,10 +40,14 @@
 ### CodeQL研究
 - [代码分析引擎 CodeQL 初体验](https://paper.seebug.org/1078)
 - [CodeQL 的学习以及尝试漏洞挖掘](https://bestwing.me/codeql.html)
+- [Finding security vulnerabilities in JavaScript with CodeQL](https://www.youtube.com/watch?v=pYzfGaLTqC0)
+- [Finding security vulnerabilities in Java with CodeQL](https://www.youtube.com/watch?v=nvCd0Ee4FgE)
+
 
 ## 书籍
 - [编译原理](https://github.com/twosmi1e/Static-Analysis-and-Automated-Code-Audit/blob/main/book/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E9%BE%99%E4%B9%A6%E4%B8%AD%E6%96%87%E7%AC%AC%E4%BA%8C%E7%89%88.pdf)
 - [Secure_programming_with_Static_Analysis](https://github.com/twosmi1e/Static-Analysis-and-Automated-Code-Audit/blob/main/book/Secure_programming_with_Static_Analysis.pdf)
+
 
 ## 工具
 - [CodeQL](https://codeql.github.com/docs/)
