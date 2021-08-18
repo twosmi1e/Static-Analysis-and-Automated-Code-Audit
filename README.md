@@ -20,6 +20,7 @@
 - [owasp整理的白盒工具大全](https://owasp.org/www-community/Source_Code_Analysis_Tools)
 - [漏洞挖掘的艺术-面向二进制的静态漏洞挖掘](https://www.freebuf.com/articles/network/248487.html)
 - [漏洞挖掘的艺术-面向源码的静态漏洞挖掘](https://www.freebuf.com/articles/network/248215.html)
+- [Blackhat-Do You Speak My Language? Make Static Analysis Engines Understand Each Other](https://www.blackhat.com/us-21/briefings/schedule/#do-you-speak-my-language-make-static-analysis-engines-understand-each-other-22797)
 
 ### 企业
 - 58集团白盒代码审计系统建设实践
