@@ -52,6 +52,7 @@
 
 ## 工具
 - [CodeQL](https://codeql.github.com/docs/)
+- [gosec](https://github.com/securego/gosec)
 - [Kunlun-M](https://github.com/LoRexxar/Kunlun-M)
 - [Cobra](https://github.com/FeeiCN/Cobra)
 - [sast-scan](https://github.com/ShiftLeftSecurity/sast-scan)
