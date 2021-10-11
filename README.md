@@ -8,7 +8,7 @@
 
 
 ## 论文
-
+- [Detecting Node.js Prototype Pollution Vulnerabilities via Object Lookup Analysis](https://github.com/twosmi1e/Static-Analysis-and-Automated-Code-Audit/blob/main/paper/Detecting%20Node.js%20Prototype%20Pollution%20Vulnerabilities%20via%20ObjectLookup%20Analysis.pdf)
 
 ## 文章
 ### 研究者
