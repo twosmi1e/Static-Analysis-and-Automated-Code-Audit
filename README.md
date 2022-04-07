@@ -9,6 +9,9 @@
 
 ## 论文
 - [Detecting Node.js Prototype Pollution Vulnerabilities via Object Lookup Analysis](https://github.com/twosmi1e/Static-Analysis-and-Automated-Code-Audit/blob/main/paper/Detecting%20Node.js%20Prototype%20Pollution%20Vulnerabilities%20via%20ObjectLookup%20Analysis.pdf)
+- [ConDySTA: Context-Aware Dynamic Supplement to Static Taint Analysis](https://readpaper.com/paper/3154138117)
+- [A Principled Approach to Selective Context Sensitivity for Pointer Analysis](https://readpaper.com/paper/3030148664)
+- [Static Analysis-Based Approaches for Secure Software Development](https://readpaper.com/paper/2884058242)
 
 ## 文章
 ### 研究者
