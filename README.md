@@ -37,12 +37,26 @@
   - [Xcheck Java引擎漏洞挖掘&防护识别](https://mp.weixin.qq.com/s/FPMUVoSqc0Lsf5BQx07ADw)
 - [360移动端工具fireline](http://magic.360.cn/zh/index.html)
 - [阿里代码规范检查工具](https://github.com/alibaba/p3c)
+- [DevSecOps建设之白盒续篇](https://www.freebuf.com/articles/es/317975.html)
 
 ### CodeQL研究
 - [代码分析引擎 CodeQL 初体验](https://paper.seebug.org/1078)
 - [CodeQL 的学习以及尝试漏洞挖掘](https://bestwing.me/codeql.html)
 - [Finding security vulnerabilities in JavaScript with CodeQL](https://www.youtube.com/watch?v=pYzfGaLTqC0)
 - [Finding security vulnerabilities in Java with CodeQL](https://www.youtube.com/watch?v=nvCd0Ee4FgE)
+- [使用 CodeQL 分析 AOSP](https://xz.aliyun.com/t/11080)
+- [CodeQL 提升篇](https://xz.aliyun.com/t/10852)
+- [利用CodeQL分析并挖掘Log4j漏洞](https://xz.aliyun.com/t/10707)
+- [codeql分析grafana任意文件读取](https://xz.aliyun.com/t/10648)
+- [如何用CodeQL数据流复现 apache kylin命令执行漏洞](https://xz.aliyun.com/t/8240)
+- [使用 CodeQL 挖掘 CVE-2020-9297](https://xz.aliyun.com/t/7979)
+- [codeql学习——污点分析](https://xz.aliyun.com/t/7789)
+- [Codeql 入门教程](https://xz.aliyun.com/t/7657)
+- [如何利用CodeQL挖掘CVE-2020-10199](https://www.anquanke.com/post/id/202987)
+- [使用codeql 挖掘 ofcms](https://www.anquanke.com/post/id/203674)
+- [从Java反序列化漏洞题看CodeQL数据流](https://www.anquanke.com/post/id/256967)
+- [Codeql分析Vulnerability-GoApp](https://www.freebuf.com/articles/web/253491.html)
+- [semgrep 分析log4j漏洞](https://www.freebuf.com/articles/web/321757.html)
 
 
 ## 书籍
