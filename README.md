@@ -12,6 +12,7 @@
 - [ConDySTA: Context-Aware Dynamic Supplement to Static Taint Analysis](https://readpaper.com/paper/3154138117)
 - [A Principled Approach to Selective Context Sensitivity for Pointer Analysis](https://readpaper.com/paper/3030148664)
 - [Static Analysis-Based Approaches for Secure Software Development](https://readpaper.com/paper/2884058242)
+- [An Empirical Study on the Effectiveness of Static C Code Analyzers for Vulnerability Detection](https://dl.acm.org/doi/10.1145/3533767.3534380)
 
 ## 文章
 ### 研究者
